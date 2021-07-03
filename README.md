@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-html-css-flexbox-grid-eRU1ktFXt](https://www.frontendmentor.io/solutions/social-proof-section-html-css-flexbox-grid-eRU1ktFXt)
 - Live Site URL: [https://lumensum.github.io/FEM-social-proof-section/](https://lumensum.github.io/FEM-social-proof-section/)
 
 ## My process
